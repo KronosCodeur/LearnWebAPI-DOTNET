@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LearnWebAPI-DOTNET.props" />
+</Project>
